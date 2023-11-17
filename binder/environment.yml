@@ -3,4 +3,4 @@ channels:
 dependencies:
 - python =3.9
 - nomad-lab =1.2.1
-- pyiron_atomistics =0.3.5
+- pyiron_atomistics
