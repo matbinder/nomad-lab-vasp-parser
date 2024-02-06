@@ -1,5 +1,5 @@
 # Benchmark Nomad Lab Parser
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/benchmark-nomad-lab-parser/HEAD?labpath=nomad.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/nomad-lab-vasp-parser/HEAD?labpath=nomad.ipynb)
 
 
 ```python
